@@ -6,12 +6,13 @@
  * Description: print all possible different combinations of two digits.
  *
  * Return: Always 0 (Success)
-i*/
+*/
 
 int main(void)
 {
 	int x1 = 0;
 	int x2, x3;
+
 	while (x1 <= 9)
 	{
 		x2 = 0;
