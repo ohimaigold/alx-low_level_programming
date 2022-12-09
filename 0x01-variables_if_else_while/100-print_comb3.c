@@ -10,6 +10,7 @@
 int main(void)
 {
 	int x1 = 0, x2;
+
 	while (x1 <= 9)
 	{
 		x2 = 0;
