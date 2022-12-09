@@ -27,7 +27,7 @@ int main(void)
 				putchar((x1 / 10) + 48);
 				putchar((x1 % 10) + 48);
 				putchar(' ');
-				putchar((x2 / 10) + 48)
+				putchar((x2 / 10) + 48);
 				putchar((x2 % 10) + 48);
 
 				if (x1 != 98 || x2 != 99)
