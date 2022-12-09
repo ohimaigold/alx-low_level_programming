@@ -22,12 +22,12 @@ int main(void)
 				putchar(x2 + 48);
 			
 				if (x1 + x2 != 17)
-																			{
-																				putchar(',');
+				{
+					putchar(',');
 					putchar(' ');
-																			}
-																		}
-																		++x2;
+				}
+			}
+			++x2;
 		}
 		++x1;
 	}
