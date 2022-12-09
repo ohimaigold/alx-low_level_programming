@@ -2,8 +2,7 @@
 /**
  * main - Entry point
  *
- * Description: print all possible different
- *           combinations of two digits.
+ * Description: print all possible different combinations of two digits.
  *
  * Return: Always 0 (Success)
  */
@@ -21,7 +20,8 @@ int main(void)
 			{
 				putchar(x1 + 48);
 				putchar(x2 + 48);
-																			if (x1 + x2 !=17)
+			
+				if (x1 + x2 != 17)
 																			{
 																				putchar(',');
 					putchar(' ');
