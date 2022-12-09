@@ -32,6 +32,5 @@ int main(void)
 		++x1;
 	}
 	putchar('\n');
-	
 	return (0);
 }
