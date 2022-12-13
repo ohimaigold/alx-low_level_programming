@@ -7,7 +7,7 @@
  *           printed in order
  *
  * @n: input
- *       */
+*/
 
 void print_to_98(int n)
 {
