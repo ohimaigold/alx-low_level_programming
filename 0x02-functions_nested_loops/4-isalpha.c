@@ -6,7 +6,9 @@
  *
  * @c: takes input from other functions.
  *
- * Return: 1 is c if true else 0
+ * Return 1 is c if true else 0
+ * 
+ * Return: Always 0 (Success)
 */
 
 int _isalpha(int c)
