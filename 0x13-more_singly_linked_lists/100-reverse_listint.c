@@ -1,5 +1,6 @@
 #include "lists.h"
 #include <stdio.h>
+#include <string.h>
 /**
  * reverse_listint - Reverse a `listint_t` linked list
  * @head: double pointer to head
